@@ -82,13 +82,13 @@ Berikut adalah progres belajar saya. Saya mencentang materi yang sudah saya pela
 ### 📊 Statistik GitHub Saya
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
 </div>
 
 ---
