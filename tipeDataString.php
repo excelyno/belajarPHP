@@ -17,3 +17,14 @@ echo "\n";
 
 echo "Nama : ";
 echo "excel \t suka\t ikanhiu\n";
+
+
+//karena menggunakan \n terlalu lama. maka kita ada sistem heredoc.
+echo <<<IKAN
+ini adalah heredoc. 
+perkenalkan nama saya excel dan saya suka memakan ikan hiu
+jujur ikan hiu itu ikan yang seram
+tapi ya ga menutup kemungkinan juga sih
+yaudh sih yapping aja
+hehe
+IKAN;
