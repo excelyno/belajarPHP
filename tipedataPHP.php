@@ -11,6 +11,9 @@
 // untuk angka negatif kita bisa menggunakan minus (-) di depan angka
 
 
+//vardump ini buat dump data. jdi cuma buat tau datanya itu apa di php
+
+//tipe data number
 echo "Decimal   :   ";
 var_dump(1234);
 echo "Octal     :   ";
