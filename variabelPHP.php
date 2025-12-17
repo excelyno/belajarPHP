@@ -22,3 +22,24 @@ $$siapa = "keren";
 
 echo "\$siapa = ";
 echo $siapa;
+
+//jujurly bingung sama fitur ini buat apa dan kenapa harus ada
+
+
+//CONSTANT
+//variable di PHp sifatnya mutable, artinya kita bisa merubahnya dan bisa dirubah
+// jika kita ingin membuat variable yang immutable (tidak bisa dirubah). maka tidak bisa kita lakukan di PHP
+//sebagai gantinya , terdapat fitur yang namanya constant
+//constant adalah tempat untuk menyimpan data yang tidak bisa dirubah lagi setelah di deklarasikan
+//untuk membuat constant kita bisa menggunakan function define()
+// best practice pembuatan nama constant adalah menggunakan UPPER_CASE
+
+define("AUTHOR", "IKAN HIU YANG SUKA");
+define("APP_VERSION", 100);
+
+echo "\n";
+
+echo AUTHOR;
+echo "\n";
+echo APP_VERSION;
+echo "\n";
