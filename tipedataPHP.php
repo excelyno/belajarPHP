@@ -24,3 +24,14 @@ echo "Binary    :   ";
 var_dump(0B111111111);
 echo "Underscore di Number :   ";
 var_dump(1_234_567);
+
+//tipe data Floating Point
+
+echo "Floating Point :  ";
+var_dump(1.234);
+echo "Floating Point dengan E notation Plus (1.2 x 1000):  ";
+var_dump(1.2e3);
+echo "Floating Point dengan E notation minus (7 x 0.001) :  ";
+var_dump(7e-3);
+echo "underscore di floating point :  ";
+var_dump(1_234.567);
