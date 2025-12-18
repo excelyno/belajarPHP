@@ -43,7 +43,7 @@ Berikut adalah progres belajar saya mengikuti playlist tersebut. Saya mencentang
 - [ ] Percabangan (`if`, `else`, `switch`)
 - [ ] Perulangan (`for`, `while`, `foreach`)
 - [ ] Function & Scope
-- [ ] Array (Indexed, Associative, Multidimensional)
+- [x] Array (Indexed, Associative, Multidimensional)
 - [ ] String Manipulation & Built-in Functions
 
 </details>
