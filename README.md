@@ -12,6 +12,14 @@
 
   <p>Repositori ini didedikasikan untuk mendokumentasikan setiap langkah saya dalam mempelajari bahasa pemrograman <b>PHP</b>, mulai dari dasar hingga framework.</p>
 
+  <h3>🎓 Sumber Belajar</h3>
+  <p>Seluruh materi dan kurikulum dalam repositori ini dipelajari dari channel YouTube <b>Programming Zaman Now</b>.</p>
+  
+  <a href="https://www.youtube.com/watch?v=TaBWhb5SPfc&list=PL-CtdCApEFH9EmZy4zYfW1ATIJ-qMXxGt">
+    <img src="https://img.shields.io/badge/YouTube-Programming%20Zaman%20Now%20(PHP%20Series)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Programming Zaman Now PHP" />
+  </a>
+  <br><br>
+
   <h3>🛠️ Tech Stack & Tools</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=php,mysql,html,css,vscode,git,github,postman&theme=dark" />
@@ -23,7 +31,7 @@
 
 ### 📚 Daftar Materi (Roadmap)
 
-Berikut adalah progres belajar saya. Saya mencentang materi yang sudah saya pelajari dan praktekkan.
+Berikut adalah progres belajar saya mengikuti playlist tersebut. Saya mencentang materi yang sudah saya pelajari dan praktekkan.
 
 <details>
 <summary><b>🟢 Tahap 1: PHP Dasar (The Basics)</b></summary>
@@ -86,7 +94,10 @@ Berikut adalah progres belajar saya. Saya mencentang materi yang sudah saya pela
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
-
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
+</div>
 
 ---
 
