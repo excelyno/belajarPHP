@@ -98,9 +98,60 @@
 //namun jika kita ingin kita juga bisa mengubah index nya tidak harus menggunakan number, bisa gunakan tipe data lain, seperti string msialnya
 //hal tersebut seperti map di bahasa pemrograman lain
 
-$excel = array (
+// $excel = array (
+//     "id" => "excel",
+//     "name" => "Excelyno suka hiu",
+//     "ages" => "30"
+// );
+// var_dump($excel);
+
+
+//OUTPUT
+// array(3) {
+//   ["id"]=>
+//   string(5) "excel"
+//   ["name"]=>
+//   string(17) "Excelyno suka hiu"
+//   ["ages"]=>
+//   string(2) "30"
+// }
+
+// jadi akan terbuat sebuah key dan valuenya langsung
+// jadi keynya tidak lagi berupa index
+
+
+//array di dalam array
+//seperti dijelaskan di awal, array di php bisa berisikan data apapun
+//sehingga kita juga bisa membuat array di dalam array jika memang dibutuhkan
+
+$hiu = array(
     "id" => "excel",
-    "name" => "Excelyno suka hiu",
-    "ages" => "30"
-);
-var_dump($excel);
+    "name"=> "excelyno magenta",
+
+    "age" => 30,
+    "address" => [
+        "city" => "Jakarta",
+        "Country" => "Indonesia"
+    ]
+    );
+
+var_dump($hiu);
+
+//OUTPUT
+// array(4) {
+//   ["id"]=>
+//   string(5) "excel"
+//   ["name"]=>
+//   string(16) "excelyno magenta"
+//   ["age"]=>
+//   int(30)
+//   ["address"]=>
+//   array(2) {
+//     ["city"]=>
+//     string(7) "Jakarta"
+//     ["Country"]=>
+//     string(9) "Indonesia"
+//   }
+// }
+
+//jadi didalam array(4) ada array(3)
