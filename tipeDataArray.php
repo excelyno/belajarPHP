@@ -43,19 +43,19 @@
 //unset($array[index]) => menghapus data di array, index otomatis hilang dari array
 //count($array) => mengambil total data di array
 
-$valuess = ["ikan", "lost", "control"];
-var_dump($valuess[0]);
+// $valuess = ["ikan", "lost", "control"];
+// var_dump($valuess[0]);
 
-$valuess[0] = "HIU";
-var_dump($valuess);
+// $valuess[0] = "HIU";
+// var_dump($valuess);
 
-unset($valuess[1]);
-var_dump($valuess);
+// unset($valuess[1]);
+// var_dump($valuess);
 
-$valuess[] ="YANTO";
-var_dump($valuess);
+// $valuess[] ="YANTO";
+// var_dump($valuess);
 
-var_dump(count($valuess));
+// var_dump(count($valuess));
 
 //OUTPUT 
 // string(4) "ikan" => mengambil index pertama yaitu ikan
@@ -91,3 +91,16 @@ var_dump(count($valuess));
 
 
 // int(3) => karena 1 unset sehingga awalnya 3 terus dikurangi 1 (unset) dan ditambah 1 lagi (menambahkan nilai baru diakhir) = 3 panjang arraynya 
+
+//biasanya kebanyakan bahasa pemrograman, terdapat tipe data bernama map yaitu asosiasi antara key dan value;
+//namun di PHP, Map bisa dibuat menggunakan Array
+//Secara default array akan menggunakan index(number) sebagai key dan value nya kita bisa bebas memasukkan data ke dalam array
+//namun jika kita ingin kita juga bisa mengubah index nya tidak harus menggunakan number, bisa gunakan tipe data lain, seperti string msialnya
+//hal tersebut seperti map di bahasa pemrograman lain
+
+$excel = array (
+    "id" => "excel",
+    "name" => "Excelyno suka hiu",
+    "ages" => "30"
+);
+var_dump($excel);
