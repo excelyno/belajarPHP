@@ -7,11 +7,11 @@
 //indexing dimulai dari 0 untuk suku pertama jika ascending dan untuk desending bisa dari -1 untuk suku terakhir dan terus berkurang hingga pertama
 // jadi bisa disimpulkan indexing dari array adalah panjang array (n) - 1
 
-// $values = array(1, 2, 3, 4);
-// var_dump($values);
+$values = array(1, 2, 3, 4);
+var_dump($values);
 
-// $names = ["excel", "ikan", "hiu"];
-// var_dump($names);
+$names = ["excel", "ikan", "hiu"];
+var_dump($names);
 
 
 //OUTPUT
@@ -43,19 +43,19 @@
 //unset($array[index]) => menghapus data di array, index otomatis hilang dari array
 //count($array) => mengambil total data di array
 
-// $valuess = ["ikan", "lost", "control"];
-// var_dump($valuess[0]);
+$valuess = ["ikan", "lost", "control"];
+var_dump($valuess[0]);
 
-// $valuess[0] = "HIU";
-// var_dump($valuess);
+$valuess[0] = "HIU";
+var_dump($valuess);
 
-// unset($valuess[1]);
-// var_dump($valuess);
+unset($valuess[1]);
+var_dump($valuess);
 
-// $valuess[] ="YANTO";
-// var_dump($valuess);
+$valuess[] ="YANTO";
+var_dump($valuess);
 
-// var_dump(count($valuess));
+var_dump(count($valuess));
 
 //OUTPUT 
 // string(4) "ikan" => mengambil index pertama yaitu ikan
@@ -98,12 +98,12 @@
 //namun jika kita ingin kita juga bisa mengubah index nya tidak harus menggunakan number, bisa gunakan tipe data lain, seperti string msialnya
 //hal tersebut seperti map di bahasa pemrograman lain
 
-// $excel = array (
-//     "id" => "excel",
-//     "name" => "Excelyno suka hiu",
-//     "ages" => "30"
-// );
-// var_dump($excel);
+$excel = array (
+    "id" => "excel",
+    "name" => "Excelyno suka hiu",
+    "ages" => "30"
+);
+var_dump($excel);
 
 
 //OUTPUT
