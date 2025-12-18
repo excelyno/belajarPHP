@@ -94,11 +94,6 @@ Berikut adalah progres belajar saya mengikuti playlist tersebut. Saya mencentang
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
-</div>
-
 ---
 
 <div align="center">
